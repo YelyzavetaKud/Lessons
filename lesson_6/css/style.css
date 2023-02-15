@@ -1,0 +1,107 @@
+@import url("reset.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Poppins:wght@300;700&display=swap');
+
+
+body {
+	font-family: "Poppins", sans-serif;
+	color: #6c757d;
+	font-size: 14px;
+	font-weight: 300;
+}
+
+[class*="__container"] {
+	max-width: 1270px; 
+	margin: 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+[class*="__box-2"] {
+    max-width: 816px;
+	margin: 0 auto;
+}
+
+[class*="__box-1"] {
+    max-width: 816px;
+	margin: 0 auto 100px;
+}
+
+.main {
+    padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.main-content {
+    max-width: 816px;
+	margin: 0 auto 80px;
+}
+p {
+    line-height: 1.78;
+	margin-bottom: 30px;
+}
+.main__title {
+    color: #212529;
+	font-size: 25px;
+	line-height: 1.6; /* 40/25 */
+	margin-bottom: 40px;
+	font-weight: 700;
+	max-width: 605px;
+}
+
+.main__image {
+    max-width: 100%;
+	margin-bottom: 80px;
+}
+.main-page {
+    font-size: 0;
+	margin-bottom: 80px;
+}
+.page-girl {
+    margin-right: 30px;
+}
+.image {
+    max-width: 100%
+}
+.main__img {
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.main-text{
+    margin-bottom: 100px;
+}
+
+.main-pages {
+    font-size: 0;
+    margin-bottom: 100px;
+}
+
+.main-pages img {
+    border-radius: 5px;
+}
+
+/* --------------------------------------------- */
+
+.test__container{
+    border-top: 5px solid grey;
+    border-right: 2px dashed yellowgreen;
+    border-left: 2px dotted green;
+}
+.test_1 {
+    margin: 40px 0px 40px 0px;
+    background-color: aqua;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 0px 20px 0px #000;
+}
+.test_2 {
+    border: 2px solid blue;
+    line-height: 1.8;
+}
+.test_4{
+    background-color: #24486d;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
