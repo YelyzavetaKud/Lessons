@@ -41,7 +41,6 @@
 /* ------------------------------------------------- */
 
 .main {
-    /* background: url(../img/09.png) center / cover; */
     background: url(../img/08.png) 74% no-repeat, linear-gradient( 115deg, rgba(244, 247, 255, 0) 63%, rgba(48, 86, 211, 0.08) 60%, rgba(244, 247, 255, 0) 100% ), linear-gradient( 115deg, rgba(244, 247, 255, 0) 68%, rgba(48, 86, 211, 0.08) 60%, rgba(244, 247, 255, 0) 100% ) #f4f7ff;
     font-family: 'Inter', sans-serif;
     font-weight: 600;
